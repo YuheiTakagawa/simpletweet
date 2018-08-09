@@ -8,3 +8,9 @@ If you don't have keys, please get public twitter developer (https://developer.t
 ```
 ./simpletweet <tweet>
 ```
+
+If your OS is macOS, or have '/usr/local/bin', install with make run.
+
+## Reference
+https://github.com/ChimeraCoder/anaconda
+
