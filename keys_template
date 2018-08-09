@@ -1,0 +1,6 @@
+package main
+
+var consumer_key = "XXXXXXXXXXXXXXXXXX"
+var consumer_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+var access_token = "XXXXXXXXXXXXXXXXXXXXXXX"
+var access_token_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
